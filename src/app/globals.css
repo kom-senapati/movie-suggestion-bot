@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --copilot-kit-primary-color: hsl(84, 16%, 60%);
+    --copilot-kit-contrast-color: hsl(0, 0%, 0%);
+    --copilot-kit-secondary-color: hsl(84, 10%, 88%);
+    --copilot-kit-secondary-contrast-color: hsl(84, 10%, 28%);
+    --copilot-kit-background-color: hsl(0, 0%, 100%);
+    --copilot-kit-muted-color: hsl(84, 14%, 26%);
+    --copilot-kit-separator-color: hsl(84, 6%, 90%);
+    --copilot-kit-scrollbar-color: hsl(84, 6%, 90%);
+    --copilot-kit-response-button-color: hsl(0, 0%, 0%);
+    --copilot-kit-response-button-background-color: hsl(84, 16%, 60%);
+  }
+}
