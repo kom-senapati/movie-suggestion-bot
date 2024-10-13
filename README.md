@@ -10,6 +10,14 @@ A bot that recommends movies based on genre, mood.
 
 $~$
 
+<details>
+    <summary>Screenshot</summary>
+    <img src="https://github.com/user-attachments/assets/077af9a3-0d16-4ac2-80ad-9765556c6651">
+</details>
+
+
+$~$
+
 ### 📤 Set up
 - These are the steps required to install the project.
 
