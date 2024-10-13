@@ -1,6 +1,7 @@
-<p align="center">
-    <img src="https://www.amug.com/wp-content/uploads/2016/09/you-logo-here-300x106.png" />
-</p>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/b9282df7-9e42-4e31-b332-6dbcfcdea9b2" width="400" />
+    <h2>Movie Suggestion Bot</h2>
+</div>
 
 
 ### ⭐ About
